@@ -1,5 +1,7 @@
 package week05;
 
+import java.util.Arrays;
+
 public class Task10 {
 
 	/**
@@ -32,7 +34,6 @@ public class Task10 {
 		}
 		
 		System.out.println("The combined array is: ");
-		
 		for (int i = 0; i < combined.length; i++) {
 			System.out.print(combined[i] + " ");
 		}
