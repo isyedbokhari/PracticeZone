@@ -3,7 +3,16 @@ package week02;
 import java.util.Scanner;
 
 public class Task07 {
-
+		/*
+		 * Write a Java Program that prints the day of 
+		 * the week. 
+			Note: Your input must be between 1 to 7: 
+			Example: 
+			Input: 1
+			output: Monday 
+			Input: 7 
+			output: Sunday 
+		 */
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);

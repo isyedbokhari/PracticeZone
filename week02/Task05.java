@@ -3,7 +3,10 @@ package week02;
 import java.util.Scanner;
 
 public class Task05 {
-
+		/*
+		 * Write a program that takes an integer as input 
+		 * and prints whether the number is  even or odd. 
+		 */
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);

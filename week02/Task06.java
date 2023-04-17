@@ -3,7 +3,10 @@ package week02;
 import java.util.Scanner;
 
 public class Task06 {
-
+		/*
+		 * Write a program that takes an integer as input 
+		 * and checks if it's positive,  negative, or zero. 
+		 */
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);

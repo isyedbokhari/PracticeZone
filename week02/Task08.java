@@ -3,7 +3,24 @@ package week02;
 import java.util.Scanner;
 
 public class Task08 {
+		/*
+		  	Write a Java Program to print the following 
+		  	message. 
+			Good Morning 
+			5< 12 
+			Good Afternoon 
+			12 — 17 
+			Good Evening 
+			17—24 
+			
+			When do the greetings (Good morning, afternoon, 
+			and evening) change? ● Good morning. 
+			5:00 AM — 11:59 AM. 
+			● Good afternoon. 12:00 PM — 4:59 PM. 
+			● Good evening. 5:00 PM — 4:59 AM. 
+		 */ 
 
+		
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);

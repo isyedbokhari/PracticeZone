@@ -3,7 +3,12 @@ package week02;
 import java.util.Scanner;
 
 public class Task02 {
-
+		/*
+		 * Write a program that takes a user's score as input 
+		 * and prints out their letter  grade based on the 
+		 * following scale: A = 90-100 B = 80-89 C = 70-79 
+		 * D = 60-69 F =  0-59
+		 */
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter your grade...");
