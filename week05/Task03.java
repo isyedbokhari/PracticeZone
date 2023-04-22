@@ -3,7 +3,15 @@ package week05;
 public class Task03 {
 
 	public static void main(String[] args) {
-
+		/*
+		 * write a program that can count how many
+		 *  palindromes in an array of string 
+		Example:
+			input:
+			{"anna", "level", "Java"}; 
+			output:
+			2 
+		 */
 		String words[] = { "Anna", "Level", "Java" };
 		int count = 0;
 		int count2 = 0;

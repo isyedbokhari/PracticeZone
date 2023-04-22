@@ -3,10 +3,18 @@ package week05;
 import java.util.Arrays;
 
 public class Task10 {
+		/*
+		 * Write a program that can merge 3 arrays of integers 
 
-	/**
-	 * @param args
-	 */
+			Example:
+			Input:
+			arr1 = {30, 10, 20}; 
+			arr2 = {15, 40, 25, 35}; 
+			arr3 = {8, 9, 17, 5, 4, 1} 
+
+			Output:
+			{30,10,20,15,40,25,35,8,9,17,5,4,1}
+		 */
 	public static void main(String[] args) {
 		
 		int arr1[] = {30, 10, 20}; 

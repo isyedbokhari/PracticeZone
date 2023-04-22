@@ -4,7 +4,11 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task12 {
-
+		/*
+		 * Write a program to check if two string are Anagram 
+		checkAnagram("acdb","dbca") -> true
+		checkAnagram("room", "doom") -> false
+		 */
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);

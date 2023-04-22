@@ -4,8 +4,13 @@ public class Task11 {
 
 	public static void main(String[] args) {
 		
-//		Write a program that can return the number of appearances of “java” and “python” anywhere in the
-//		   sentence.
+/*
+ * Write a program that can return the number of 
+ * appearances of “java” and “python” anywhere in the
+   sentence.
+   (similar to the task in repl.it, 
+   but this time you MUST use arrays and for each loop)
+   */
 		
 		
 		String sentence[] = {"I love JAVA even more than Python!" ,

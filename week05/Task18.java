@@ -4,7 +4,15 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Task18 {
+		/*
+		 * Write a program to add random 100 number 
+		 * to an integer array
+   - how many even numbers in the array?
+   - how many odd numbers in the array?
+   - how many numbers can be evenly divisible by 3?
+   - how many numbers can be evenly divisible by 5?
 
+*/
 	public static void main(String[] args) {
 		
 		Random random = new Random();

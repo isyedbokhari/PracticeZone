@@ -3,7 +3,27 @@ package week05;
 import java.util.Scanner;
 
 public class Task17 {
+		/*
+		 * Write a program that can reverse the word of every 
+		 * second word of the sentence
 
+		Example:
+
+		input:
+		"I love Java so much more than Javascript"
+
+		output:
+		"I evol Java os much erom than tpircsavaJ"
+
+
+		input:
+		"find all the palindrome string"
+
+		output:
+		"find lla the emordnilap string"
+
+
+		 */
 	public static void main(String[] args) {
 		
 		StringBuilder sb = new StringBuilder();

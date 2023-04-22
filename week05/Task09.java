@@ -3,7 +3,13 @@ package week05;
 import java.util.Scanner;
 
 public class Task09 {
+		/*
+		 * AverageNumber:
+    1. Ask the user how many numbers user want to enter 
+    2. get all the inputs from the user and store them into an array 
+    3. Iterate the array & return the average number
 
+*/
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);

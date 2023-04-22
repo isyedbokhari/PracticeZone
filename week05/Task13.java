@@ -1,7 +1,17 @@
 package week05;
 
 public class Task13 {
+		/*
+		 * write a program that can merge two arrays of integers 
 
+		Example:
+		input:
+		arr1 = {1,2,3,4} 
+		arr2 = {5,6}
+
+		output:
+		arr3 = {1,2,3,4,5,6}
+		*/
 	public static void main(String[] args) {
 		
 		int[] arr1 = {1,2,3,4};
