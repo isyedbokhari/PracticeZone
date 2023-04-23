@@ -3,7 +3,11 @@ package week06;
 import java.util.ArrayList;
 
 public class Task07 {
-
+		/*
+		 * Write a program that can find the 
+		 * maximum, minimum and average 
+		 * number from an arrayList of integers
+		 */
 	public static int returnLargest(ArrayList<Integer>arr) {
 		int max = 0;
 		for (int num : arr) {

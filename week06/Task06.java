@@ -4,7 +4,14 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Task06 {
-
+		/*
+		 * Write a program that can 
+		 * return the nth largest number 
+		 * from an arraylist. Constraints: n <= arr.size()
+	findNThLargest({ 1, 2, 3, 4, 5, 6, 7, 7 ,8, 8}, 5) ==> 4
+	findNThLargest({ 10, 20, 3, 11, 4, 5, 11,}, 2) ==> 11
+	findNThLargest({ -3, 0, 11, 4, -5, 11, 0}, 4) ==> -3
+		 */
 	public static int returnNthLargest(ArrayList<Integer>arr, int n) {
 		
 		// sorting the array list in descending order

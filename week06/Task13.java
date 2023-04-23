@@ -5,7 +5,9 @@ import java.util.Collections;
 
 public class Task13 {
 
-	
+	/*
+	 * Write a program to reverse an ArrayList
+	 */
 	public static ArrayList<Integer> sortReverse(ArrayList<Integer> arr) {
 		ArrayList<Integer> reversed = new ArrayList<Integer>();
 		Collections.sort(arr, Collections.reverseOrder());

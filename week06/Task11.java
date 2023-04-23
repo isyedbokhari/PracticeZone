@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Task11 {
-
+		/*
+		 * Write a program that can sort and Arraylist of 
+		 * integer ascending order
+*/
 	public static ArrayList<Integer> makeAscending(ArrayList<Integer> arr) {
 		
 		ArrayList<Integer> sortedArray = new ArrayList<Integer>();

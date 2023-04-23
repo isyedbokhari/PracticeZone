@@ -5,7 +5,12 @@ import java.util.Arrays;
 
 public class Task05 {
 
-	
+			/*
+			 * Tasks
+		Create an Array of string called countries
+		Write a program that can remove all the country 
+		names that have length of 10 or greater
+			 */
 	public static String[] removeCountries(String countries[]) {
 			ArrayList<String> filteredCountries = new ArrayList<>();
 			

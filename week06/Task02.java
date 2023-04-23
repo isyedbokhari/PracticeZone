@@ -3,7 +3,25 @@ package week06;
 import java.util.Arrays;
 
 public class Task02 {
+		/*
+		 * RecplaceAll Task:
 
+		Create a method named replaceAll that passes 
+		three parameters: integer array, integer 
+		oldElement, integer newElement. 
+		The method replaces all the element 
+		of the array that matching with the 
+		given old element with the given 
+		new element, and returns the new array.
+
+		Ex: 
+		var arr = {10, 10, 20, 30, 40, 30, 30, 30};
+
+		replaceAll(arr, 30, 300) ==> {10, 10, 20, 300, 
+		40, 300, 300, 300}
+		Create the same functions for double
+		 arrays, char arrays, and String arrays
+		 */
 	public static void main(String[] args) {
 		
 		int a[] = {10,20,30,30,30};

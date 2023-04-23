@@ -3,7 +3,16 @@ package week06;
 import java.util.Arrays;
 
 public class Task12 {
+		/*
+		 * Write a program to get unique character set from 
+		 * a string.
 
+		input:
+		String str = "aaaaabbbccccdeeeefaab"; 
+
+		output : 
+		[a,b,c,d,e,f]
+		 */
 	public static char[] getUnique(String a) {
 		String unique = "";
 		for (int i = 0; i < a.length(); i++) {

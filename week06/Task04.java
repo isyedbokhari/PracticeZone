@@ -4,7 +4,14 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Task04 {
+		/*
+		 * In the list below remove all the that's not 
+		 * a palindrome
+		{"Anna", "Racecar", "Level", "Eye", 
+		"Java", "Python", "TechCircle"}
 
+		{"Anna", "Racecar", "Level", "Eye"}
+		 */
 	public static String[] returnPalindrome(String array[]) {
 		
 		ArrayList<String> list = new ArrayList<>();

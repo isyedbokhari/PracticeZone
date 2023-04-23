@@ -1,7 +1,37 @@
 package week06;
 
 import java.util.Arrays;
+		/*
+		 * Create a class named RemoveElements:
 
+		Create a method that passes two 
+		parametetrs: an integer array 
+		and an integer index. the method 
+		removes the element at the given
+		 index of the array and returns the new array
+
+		Ex: int[]
+		arr = {10,20,30,40} removeElement(arr, 2) ==> 
+		{10, 20, 40}
+		
+		Create a method that passes 
+		two parametetrs: a double array and an
+		 integer index. the method removes 
+		 the element at the given index of 
+		 the array and returns the new array
+
+		Create a method that passes two 
+		parametetrs: a char array and an 
+		integer index. the method removes
+		 the element at the given index of 
+		 the array and returns the new array
+
+		Create a method that passes two parametetrs:
+		 a String array and an integer index. 
+		 the method removes the element at the 
+		 given index of the array and returns 
+		 the new array
+		 */
 public class Task08_RemoveElements {
 
 	public static int[] removeInt(int arr[], int n) {
